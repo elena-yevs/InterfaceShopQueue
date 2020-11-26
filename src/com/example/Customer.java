@@ -11,4 +11,7 @@ public class Customer implements ShopQueue{
     public void serve() {
         System.out.println("serve");
     }
+    public void free() {
+        System.out.println("serve");
+    }
 }
