@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TestInterface.iml" filepath="$PROJECT_DIR$/TestInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceShopQueue.iml" filepath="$PROJECT_DIR$/InterfaceShopQueue.iml" />
     </modules>
   </component>
 </project>
